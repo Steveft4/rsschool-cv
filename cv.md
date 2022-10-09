@@ -6,7 +6,7 @@ ___
  - Github: [Steveft4](https://github.com/Steveft4)
 ### Summary
 ___
-I’m 14 years old  beginner Frontend Developer.
+I’m 15 years old  beginner Frontend Developer.
 Right now I don’t have much of experience in the field, but I am a fast learner who is really interested in web development. I'm sure I could become a valuable asset to your team.
 ### Soft Skills
 ___
@@ -41,4 +41,4 @@ N1 Public School, Kvareli, Georgia
 ### English
 ___
 Level: B2 / C1 (Upper-Intermediate / Advanced)
-I studied at school with advanced english classes. I  practice a lot daily by reading and watching content in english.
+I study at school with advanced english classes. I  practice a lot daily by reading and watching content in english.
