@@ -3,7 +3,6 @@ ___
 ### Contact Info
 ___
  - Email: [nioradzedat@gmail.com](https://nioradzedat@gmail.com/)
- - Telegram: @Keto.Nioradze
  - Github: [Steveft4](https://github.com/Steveft4)
 ### Summary
 ___
