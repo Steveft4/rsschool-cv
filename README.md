@@ -1,1 +1,1 @@
-https://github.com/Steveft4/rsschool-cv
+https://Steveft4.github.io/rsschool-cv/
